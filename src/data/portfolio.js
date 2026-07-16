@@ -27,7 +27,7 @@ export const projects = [
     title: 'blog platform',
     description:
       'A full-stack publishing platform — authentication, drafts, comments — built to feel instant.',
-    tech: ['React', 'Node.js', 'MongoDB'],
+    tech: ['React', 'Node.js', 'appwrite'],
     image: 'https://picsum.photos/id/180/1200/1500',
     demo: '',
     github: 'https://github.com/your-username/blog-website',
@@ -44,10 +44,10 @@ export const projects = [
   },
   
   {
-    number: '04',
-    title: 'smart parking system',
+    number: '03',
+    title: 'Smart Autonomous Braking    System ',
     description:
-      'Ultrasonic sensors and a microcontroller network report live parking availability to a simple dashboard.',
+      'Developed an Arduino-based Smart Autonomous Braking System that detects obstacles using an ultrasonic sensor and automatically stops the vehicle to prevent collisions.',
     tech: ['Arduino', 'IoT', 'C++'],
     image: 'https://picsum.photos/id/1076/1200/1500',
     demo: '',
@@ -61,7 +61,7 @@ export const projects = [
     tech: ['ESP32', 'IoT'],
     image: 'https://picsum.photos/id/1073/1200/1500',
     demo: '',
-    github: 'https://github.com/your-username/smart-irrigation',
+    github: 'https://github.com/Tanishq3010/SmartAutonomousBrakingSystem',
   },
 ]
 
